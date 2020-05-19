@@ -1,0 +1,137 @@
+/* top-page */
+main {
+    background-image: url(images/mountains.jpg);
+    background-repeat: no-repeat;
+    background-position: 10% 95%;
+    background-size: cover;
+    height: 93vh;
+    margin-bottom: 100px;
+    width: 100%;
+    cursor: pointer;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.item a {
+    text-decoration: none;
+    color: white;
+}
+
+.item {
+    border-right: 1px solid #666;
+    line-height: 45px;
+    padding-right: 20px;
+}
+
+nav {
+    top: 150px;
+    left: 220px;
+    position: relative;
+    border-radius: 3px;
+    box-shadow: 0.5px 0.5px 1px 0.2px #3a3939;
+    width: 65%;
+    background: #555;
+    background: linear-gradient(#777, #666, #555, #666, #777);
+    font-size: 14px;
+}
+
+.input-search {
+    border-radius: 10px;
+    width: 110px;
+    background: linear-gradient(#666, #555, #666);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.758);
+    border-bottom: 0.5px solid #9c9b9b;
+    border: 1px solid transparent;
+}
+
+.input-search:focus {
+    width: 150px;
+    background-image: linear-gradient(to right, #f5f7f5, #f5faf5);
+}
+
+.fa-search {
+    color: white;
+    position: relative;
+    left: 15px;
+    font-size: 10px;
+}
+
+.titles {
+    text-align: center;
+}
+
+.titles {
+    position: relative;
+    top: 165px;
+}
+
+.titles a:first-child {
+    color: white;
+    font-size: 24px;
+    font-weight: 3em;
+    text-decoration: none;
+}
+
+.titles a {
+    color: white;
+    text-decoration: none;
+}
+
+.titles h3:hover {
+    text-decoration: underline;
+}
+
+.play-btn {
+    height: 115px;
+    position: relative;
+    left: 235px;
+    bottom: 86px;
+}
+
+/* middle page */
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 170px;
+}
+
+flex-item-div {
+    width: 25%;
+}
+
+flex-item img {
+    width: 99.3%;
+    height: auto;
+}
+/* bottom page */
+
+.bottom-page a {
+    color: #08c;
+    text-decoration: none;
+}
+
+.bottom-page a:hover {
+    text-decoration: underline;
+}
+
+.footer-links ul {
+    display: flex;
+    position: relative;
+    left: 600px;
+    bottom: 67px;
+}
+
+.footer-links a {
+    padding: 5px;
+}
+
+.usa-icon {
+    height: 34px;
+    position: relative;
+    bottom: 4px;
+}
