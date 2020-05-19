@@ -60,7 +60,7 @@ nav ul {
 }
 
 nav {
-    top: 13.5vh;
+    top: 50px;
     left: 220px;
     position: relative;
     border-radius: 3px;
@@ -101,7 +101,7 @@ nav {
 .titles {
     text-align: center;
     position: relative;
-    top: 165px;
+    bottom: -50px;
 }
 
 .titles a:first-child {
