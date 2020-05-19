@@ -126,7 +126,7 @@ nav {
 .flex-container {
     display: flex;
     flex-direction: row;
-    margin-top: 98px;
+    margin-top: 80px;
 }
 
 .flex-item-div {
