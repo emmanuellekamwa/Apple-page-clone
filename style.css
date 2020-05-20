@@ -87,11 +87,11 @@ nav {
   border-bottom: 0.5px solid #9c9b9b;
   border: 1px solid transparent;
   background:
-      linear-gradient(
-        180deg,
-        rgb(116, 116, 116) 47%,
-        rgb(87, 87, 87) 48%,
-        rgba(137, 137, 137, 1) 120%
+     linear-gradient(
+       180deg,
+       rgb(116, 116, 116) 47%,
+       rgb(87, 87, 87) 48%,
+       rgba(137, 137, 137, 1) 120%
     );
 }
 
