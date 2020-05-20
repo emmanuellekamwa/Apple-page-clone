@@ -68,12 +68,12 @@ nav {
     box-shadow: 0.5px 0.5px 1px 0.2px #3a3939;
     width: 70%;
     background: #555;
-    background: 
-      linear-gradient(
-        180deg,
-        rgb(116, 116, 116) 47%,
-        rgb(87, 87, 87) 48%,
-        rgba(137, 137, 137, 1) 120%
+   background:
+    linear-gradient(
+      180deg,
+      rgb(116, 116, 116) 47%,
+      rgb(87, 87, 87) 48%,
+      rgba(137, 137, 137, 1) 120%
     );
     font-size: 14px;
     height: 35px;
