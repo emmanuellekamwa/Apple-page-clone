@@ -8,21 +8,21 @@ html {
 }
 
 main {
-    background-image: url(images/mountains.jpg);
-    background-repeat: no-repeat;
-    background-position: 1px 118%;
-    background-size: cover;
-    height: 93vh;
-    margin-bottom: 100px;
-    cursor: pointer;
+  background-image: url(images/mountains.jpg);
+  background-repeat: no-repeat;
+  background-position: 1px 118%;
+  background-size: cover;
+  height: 93vh;
+  margin-bottom: 100px;
+  cursor: pointer;
 }
 
 nav ul {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 100%;
-    list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  list-style-type: none;
 }
 
 .item a {
