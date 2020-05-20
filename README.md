@@ -14,7 +14,7 @@ This project was conceived so as to test the level of understanding of the progr
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/emmanuellekamwa/Apple-page-clone/tree/feature-page)
+[Live Demo Link](https://github.com/emmanuellekamwa/Apple-pee/feature-pageage-clone/tr)
 
 ## Author
 
