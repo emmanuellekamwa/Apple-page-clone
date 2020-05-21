@@ -45,7 +45,7 @@ nav ul {
 }
 
 .item a:hover {
-  background: 
+  background:
     linear-gradient(
       180deg,
       rgb(72, 72, 72) 47%,
@@ -68,7 +68,7 @@ nav {
   box-shadow: 0.5px 0.5px 1px 0.2px #3a3939;
   width: 70%;
   background: #555;
-  background: 
+  background:
     linear-gradient(
       180deg,
       rgb(116, 116, 116) 47%,
@@ -86,8 +86,8 @@ nav {
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.758);
   border-bottom: 0.5px solid #9c9b9b;
   border: 1px solid transparent;
-  background: 
-      linear-gradient(
+  background:
+    linear-gradient(
       180deg,
       rgb(116, 116, 116) 47%,
       rgb(87, 87, 87) 48%,
@@ -96,103 +96,103 @@ nav {
 }
 
 .input-search:focus {
-    width: 150px;
-    background-image: linear-gradient(to right, #f5f7f5, #f5faf5);
+  width: 150px;
+  background-image: linear-gradient(to right, #f5f7f5, #f5faf5);
 }
 
 .fa-search {
-    color: white;
-    position: relative;
-    left: 15px;
-    font-size: 10px;
+  color: white;
+  position: relative;
+  left: 15px;
+  font-size: 10px;
 }
 
 .titles {
-    text-align: center;
-    position: relative;
-    bottom: -50px;
+  text-align: center;
+  position: relative;
+  bottom: -50px;
 }
 
 .titles a:first-child {
-    color: white;
-    font-size: 24px;
-    text-decoration: none;
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
 }
 
 .titles h3:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .play-btn {
-    height: 115px;
-    position: relative;
-    left: 235px;
-    bottom: 86px;
+  height: 115px;
+  position: relative;
+  left: 235px;
+  bottom: 86px;
 }
 
 /* middle page */
 .flex-container {
-    display: flex;
-    flex-direction: row;
-    margin-top: 80px;
+  display: flex;
+  flex-direction: row;
+  margin-top: -213px;
 }
 
 .flex-item-div {
-    width: 25%;
-    flex: 1;
+  width: 25%;
+  flex: 1;
 }
 
 .flex-item-div img {
-    width: 99.3%;
-    height: auto;
+  width: 99.3%;
+  height: auto;
 }
 
 /* bottom page */
 .footer-flex {
-    max-width: 82%;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    font-family: "Cabin", sans-serif;
-    font-size: 12px;
-    color: #666;
+  max-width: 82%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: "Cabin", sans-serif;
+  font-size: 12px;
+  color: #666;
 }
 
 .copyright-flex {
-    max-width: 82%;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    font-family: "Cabin", sans-serif;
-    font-size: 12px;
-    color: #666;
+  max-width: 82%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: "Cabin", sans-serif;
+  font-size: 12px;
+  color: #666;
 }
 
 .footer-links {
-    max-width: 82%;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    font-family: "Cabin", sans-serif;
-    font-size: 12px;
-    color: #666;
+  max-width: 82%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: "Cabin", sans-serif;
+  font-size: 12px;
+  color: #666;
 }
 
 .bottom-page a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .footer-links ul {
-    display: flex;
-    position: relative;
-    left: 500px;
-    bottom: 76px;
-    list-style-type: none;
+  display: flex;
+  position: relative;
+  left: 500px;
+  bottom: 76px;
+  list-style-type: none;
 }
 
 .usa-icon {
-    height: 34px;
-    position: relative;
-    bottom: 7px;
-    right: 5px;
+  height: 34px;
+  position: relative;
+  bottom: 7px;
+  right: 5px;
 }
