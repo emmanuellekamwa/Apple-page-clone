@@ -1,51 +1,52 @@
 /* top-page */
 body {
-    max-width: 1400px;
+  max-width: 1400px;
 }
 
 html {
-    overflow-x: hidden;
+  overflow-x: hidden;
 }
 
 main {
-    background-image: url(images/mountains.jpg);
-    background-repeat: no-repeat;
-    background-position: 1px 118%;
-    background-size: cover;
-    height: 93vh;
-    margin-bottom: 100px;
-    cursor: pointer;
+  background-image: url(images/mountains.jpg);
+  background-repeat: no-repeat;
+  background-position: 1px 118%;
+  background-size: cover;
+  height: 93vh;
+  margin-bottom: 100px;
+  cursor: pointer;
 }
 
 nav ul {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 100%;
-    list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  list-style-type: none;
 }
 
 .item a {
-    text-decoration: none;
-    color: white;
+  text-decoration: none;
+  color: white;
 }
 
 .titles a {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 .footer-links a {
-    padding: 5px;
+  padding: 5px;
 }
 
 .bottom-page a {
-    color: #08c;
-    text-decoration: none;
+  color: #08c;
+  text-decoration: none;
 }
 
 .item a:hover {
-    background: linear-gradient(
+  background: 
+    linear-gradient(
         180deg,
         rgb(72, 72, 72) 47%,
         rgb(57, 57, 57) 48%,
@@ -67,7 +68,8 @@ nav {
     box-shadow: 0.5px 0.5px 1px 0.2px #3a3939;
     width: 70%;
     background: #555;
-    background: linear-gradient(
+  background: 
+        linear-gradient(
         180deg,
         rgb(116, 116, 116) 47%,
         rgb(87, 87, 87) 48%,
@@ -84,7 +86,8 @@ nav {
     box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.758);
     border-bottom: 0.5px solid #9c9b9b;
     border: 1px solid transparent;
-    background: linear-gradient(
+  background: 
+        linear-gradient(
         180deg,
         rgb(116, 116, 116) 47%,
         rgb(87, 87, 87) 48%,
