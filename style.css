@@ -132,7 +132,7 @@ nav {
 .flex-container {
   display: flex;
   flex-direction: row;
-  margin-top: -213px;
+  margin-top: -207px;
 }
 
 .flex-item-div {
@@ -165,7 +165,7 @@ nav {
 .footer-links ul {
   display: flex;
   position: relative;
-  left: 500px;
+  left: 600px;
   bottom: 76px;
   list-style-type: none;
 }
